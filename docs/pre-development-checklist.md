@@ -1,6 +1,6 @@
 # Pre-Development Checklist
 
-- [ ] Discovery and Problem Definition
+- [x] Discovery and Problem Definition
 - [ ] Research
 - [ ] Requirements Documentation
 - [ ] High level architecture and planning
