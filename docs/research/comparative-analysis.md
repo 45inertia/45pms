@@ -1,2 +1,7 @@
 # Comparative Analysis
 
+## Obsidian
+
+
+
+## Typora
