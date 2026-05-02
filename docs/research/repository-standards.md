@@ -13,6 +13,10 @@ project-template/
 │   ├── research/
 │   │   ├── competitive-analysis.md              ← Template with headings
 │   │   └── technical-spikes/
+│   ├── requirements/
+│   │   ├── functional-requirements.md         ← What the system must do
+│   │   ├── non-functional-requirements.md     ← How well it must do it
+│   │   └── user-stories.md
 │   ├── design/
 │   │   ├── wireframes/
 │   │   └── user-flows/
